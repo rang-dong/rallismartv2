@@ -21,6 +21,9 @@ Production: [https://install.appcenter.ms/.../.../.../fpt-production](https://in
 Testflight: [https://testflight.apple.com/join/0Zg2onVM](https://testflight.apple.com/join/0Zg2onVM)
 
 
+------------------------------------------------
+
+
 # CHANGELOG
 All notable changes to this project will be documented in this file.
 
@@ -29,15 +32,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.2.8](135)
 
-### Changed
+### Fixed
 - Sửa các lỗi không bấm được vào thiết bị điều khiển ở trang chủ
-
-### Changed
-- Sửa lỗi không đăng nhập vào ứng dụng được ở iOS <16 (loại bỏ log thông tin manufacturer)
 
 ## [1.2.7](132) - iOS Only - 2022-11-28
 
-### Changed
+### Fixed
 - Sửa lỗi không đăng nhập vào ứng dụng được ở iOS <16 (loại bỏ log thông tin manufacturer)
 
 ## [1.2.6](129) - 2022-11-21
