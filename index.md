@@ -31,12 +31,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [1.2.8] (139)
+## [1.2.8] - (139)
 
 ### Fixed 
 - Sửa lỗi thêm thiết bị Tuya ở Android
 
-## [1.2.8] (138)
+## [1.2.8] - (138)
 
 ### Fixed 
 - Sửa lỗi tính năng chia sẻ nhà
@@ -45,7 +45,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Sửa lỗi điều khiển công tắc và tối ưu tốc độ phản hồi
 - Sửa lỗi lặp thiết bị Smarthome ở trang chủ
 
-## [1.2.8](136)
+## [1.2.8] - (136)
 
 ### Changed
 - Tạm thời bỏ check offline của công tắc
@@ -53,7 +53,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Sửa lỗi điều khiển công tắc thiếu nút bấm
 
-## [1.2.8](135)
+## [1.2.8]- (135)
 
 ### Fixed
 - Sửa các lỗi không bấm được vào thiết bị điều khiển ở trang chủ
