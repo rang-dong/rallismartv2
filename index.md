@@ -31,7 +31,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [1.2.8] - (139)
+## [1.2.9] - (140): 2022-12-10
+
+### Fixed
+- Sửa lỗi không lưu trạng thái tab ở trang chủ
+- Sửa lỗi xác thực tài khoản khi chưa nhập OTP
+- Crash khi chia sẻ tài khoản
+- Sửa lỗi hiển thị tên người dùng
+- Ẩn delaytime cho thiết bị đầu ra
+- Xoá rule
+- Sửa thông tin người dùng
+
+## [1.2.8] - (139) 
 
 ### Fixed 
 - Sửa lỗi thêm thiết bị Tuya ở Android
