@@ -30,7 +30,39 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.2.14] (145)
+## [1.2.19] (149)
+
+- Thêm bản tin Connect to cloud
+- Fixbug xoá cảnh
+- Fixbug Xoá báo thức/ngủ
+- Fixbug xoá nhầm HC
+
+### Fixed
+
+- Công tắc cơ hiển thị sai số nút
+- Công tắc cơ báo lỗi "Thiết bị đang ngoại tuyến"
+- Không đồng bộ thiết bị đầu ra Rule
+- Cài đặt Rule
+- Sửa thông tin tài khoản bị crash
+
+## [1.2.18] (148)
+
+### Fixed
+
+- Sửa lỗi session
+- Sửa lỗi build sigr
+
+## [1.2.17] (147)
+
+### Fixed
+
+- Công tắc cơ hiển thị sai số nút
+- Công tắc cơ báo lỗi "Thiết bị đang ngoại tuyến"
+- Không đồng bộ thiết bị đầu ra Rule
+- Cài đặt Rule
+- Sửa thông tin tài khoản bị crash
+
+## [1.2.15] (145)
 
 ### Fixed
 
@@ -70,36 +102,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Sửa luồng chia sẻ nhà
 
-## [1.2.9] - (140): 2022-12-10
+## [1.2.8] (139)
 
 ### Fixed
 
-- Sửa lỗi không lưu trạng thái tab ở trang chủ
-- Sửa lỗi xác thực tài khoản khi chưa nhập OTP
-- Crash khi chia sẻ tài khoản
-- Sửa lỗi hiển thị tên người dùng
-- Ẩn delaytime cho thiết bị đầu ra
-- Xoá rule
-- Sửa thông tin người dùng
+- Lỗi thêm thiết bị Tuya
 
-## [1.2.8] - (139)
-
-### Fixed
-
-- Sửa lỗi thêm thiết bị Tuya ở Android
-
-## [1.2.8] - (138)
+## [1.2.8] (138)
 
 ### Fixed
 
 - Sửa lỗi tính năng chia sẻ nhà
 
-## [1.2.8] - (137) [2022-12-02]
+## [1.2.8] (137)
 
-- Sửa lỗi điều khiển công tắc và tối ưu tốc độ phản hồi
-- Sửa lỗi lặp thiết bị Smarthome ở trang chủ
+### Fixed
 
-## [1.2.8] - (136)
+- Lỗi lặp thiết bị smart home ở trang chủ
+
+## [1.2.8] (136)
 
 ### Changed
 
@@ -109,15 +130,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Sửa lỗi điều khiển công tắc thiếu nút bấm
 
-## [1.2.8]- (135)
+## [1.2.8] (135)
 
-### Fixed
+### Changed
 
 - Sửa các lỗi không bấm được vào thiết bị điều khiển ở trang chủ
 
-## [1.2.7](132) - iOS Only - 2022-11-28
+## [1.2.7] (132) - iOS Only - 2022-11-28
 
-### Fixed
+### Changed
 
 - Sửa lỗi không đăng nhập vào ứng dụng được ở iOS <16 (loại bỏ log thông tin manufacturer)
 
@@ -584,4 +605,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix Wi-Fi name encoding.
 - Fix navigation when deleting dormitory.
 - Fix require pwd when connecting HC.
-- Fix sync home controller, dormitory, room, v.v...
+- Fix sync home controller, dormitory, room, v.v... 
