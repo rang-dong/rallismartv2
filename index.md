@@ -30,20 +30,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## [1.2.20] (151)
+
+### Fixed
+
+- Thông báo
+- Không đóng popup hướng dẫn khi cài wiffi
+- Công tắc cơ hiện sai thời gian hoàn thành
+
 ## [1.2.19] (149)
 
 - Thêm bản tin Connect to cloud
 - Fixbug xoá cảnh
 - Fixbug Xoá báo thức/ngủ
 - Fixbug xoá nhầm HC
-
-### Fixed
-
-- Công tắc cơ hiển thị sai số nút
-- Công tắc cơ báo lỗi "Thiết bị đang ngoại tuyến"
-- Không đồng bộ thiết bị đầu ra Rule
-- Cài đặt Rule
-- Sửa thông tin tài khoản bị crash
 
 ## [1.2.18] (148)
 
