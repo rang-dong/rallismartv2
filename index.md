@@ -32,14 +32,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.2.23] (154)
 
+- Sửa lỗi quên mật khẩu
+
+## [1.2.22] (152)
+
 - Tạo Rule cho bảng cảnh AC
 - Bảng cảnh Ralli mất màu nền (RD-SC06)
 - Vẫn hiển thị trạng thái cũ khi quét lại thiết bị đã xóa
 - Không hiện kết nối local khi bắt wifi nhà
-
-## [1.2.22] (152)
-
-- Sửa lỗi quên mật khẩu
 
 ## [1.2.20] (151)
 
