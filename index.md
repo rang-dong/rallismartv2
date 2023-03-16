@@ -30,6 +30,36 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.42] (174)
+
+- Sửa lỗi thiết bị mới
+- Sửa lỗi thêm nhà
+- Sửa lỗi cảnh
+- Sửa lỗi group
+- Sửa lỗi otp
+- Sửa lỗi chọn phòng
+- Thêm tính năng trợ giúp và phản hồi
+
+## [1.2.41] (173)
+
+- Sửa lỗi đồng bộ thiết bị
+
+## [1.2.37] (168)
+
+- Sửa lỗi output scene rule
+- Sửa lỗi HCL
+
+## [1.2.36] (167)
+
+- Sửa lỗi trạng thái HC
+- Sửa lỗi trạng thái thiết bị
+- Sửa lỗi đồng bộ
+- Thiết bị mới
+
+## [1.2.24] (155)
+
+- Sửa lỗi đồng bộ thiết bị
+
 ## [1.2.23] (154)
 
 - Sửa lỗi quên mật khẩu
