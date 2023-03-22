@@ -30,6 +30,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.2] (176)
+
+- Sửa lỗi cảnh với các thiết bị RGB
+- Sửa lỗi nhóm
+- Sửa lỗi giao diện danh sách thiết bị
+- Sửa lỗi HCL, cảm biến chuyển động và ẩn thanh dim trong cảnh
+- Sửa lỗi đồng bộ tên 1 số thiết bị
+- Sửa lỗi danh sách thiết bị trong cảnh khi tạo phòng
+- Sửa lỗi chuyển cảnh
+
+## [1.3.1] (175)
+
+- Sửa lỗi trạng thái ổ cắm wifi
+- Sửa lỗi scene
+
 ## [1.2.42] (174)
 
 - Sửa lỗi thiết bị mới
