@@ -30,6 +30,26 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.4] (178) - 22/04/2023
+
+- Sửa tiêu đề Smartlight trong giao diện Cài đặt thiết bị
+- Không vào được giao diện chỉnh sửa Camera Tuya
+- Tính năng record, nói ở Camera Tuya
+- Lỗi cập nhật khi sửa tên tài khoản
+- Không cập nhật trạng thái cảnh khi điều khiển
+- Sai trạng thái thiết bị Wifi ở 2 điện thoại
+- Không thêm được 2 IR/thiết bị con IR vào cùng 1 phòng
+- Sửa lỗi mất màu DKTX
+- Lỗi đồng bộ
+- Lỗi cập nhật màu nút nhấn
+- Hiển thị sai danh sách thiết bị trong phòng tại mục Quản lý thiết bị
+- Cập nhật bản sao lưu
+- Lỗi giao diện khi đổi mật khẩu tài khoản
+- Lỗi chỉnh sửa mật khẩu - Công tắc cửa cuốn
+- Lỗi giao diện Công tắc rèm + cửa cuốn
+- Sửa lỗi đồng bộ tên một số thiết bị
+- Sửa lỗi  danh sách thiết bị hiển thị toàn bộ các phòng trong quản lí thiết bị
+
 ## [1.3.3] (177)
 
 - Ẩn giúp và phản hồi
