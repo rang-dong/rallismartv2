@@ -30,6 +30,40 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.5] (185) - 07/07/2023
+
+Thêm mới:
+
+- Thêm tính năng Mini Hub
+- Tích hợp CRM:
+  - Danh sách vấn đề
+  - Tạo vấn đề
+  - Xem vấn đề
+  - Trao đổi vấn đề
+  - Xoá vấn đề
+- Thêm tính năng nhiều HC
+- Thêm camera Dahua: stream
+
+Sửa lỗi:
+
+- Không hiện danh sách nhóm thiết bị khi tạo cảnh có cài trễ
+- Lỗi hide/unhide khi đặt/đổi mật khẩu CT cửa cuốn
+- Thông báo xóa cảnh
+- Không hiện popup lên App khi nhấn nút trên bảng cảnh (m3, M4, AC) khi kết nối local
+- Màn hình đếm ngược - CTCMàn hình hẹn giờ (automation)
+- Cập nhật sai trạng thái đèn CCT khi xóa đèn RGB khỏi nhóm có cả đèn CCT+RGB
+- Cập nhật DIM đèn RGB ở 0 khi tắt bật đèn
+- Sửa nút CT liên thông
+- Thay thế HC
+- Lỗi cập nhật khi sửa tên tài khoản
+- Chọn phòng cho thiết bị
+- Lỗi đồng bộ rule
+- Lỗi Cài đặt ngưỡng cao CT Rèm
+- Tính năng record, nói ở Camera Tuya
+- Hiển thị sai STT thiết bị khi add lại thiết bị
+- Giá trị cảm biến nhiệt ẩm ở màn trang chủ khác với giá trị cảm biến nhiệt ẩm
+
+
 ## [1.3.5] (179) - 28/04/2023
 
 - Sửa lỗi đồng bộ
