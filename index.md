@@ -30,6 +30,28 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.4.16]
+- Sửa lỗi micro camera tuya
+  
+## [1.4.13] ()
+- Ẩn nút huỷ khi thêm thiết bị trong mini hub
+
+## [1.4.12] ()
+- Cập nhật file crm
+
+## [1.4.11] ()
+- Sửa lỗi rgb
+- Sửa lỗi countdown
+- Sửa lỗi switch on off
+
+## [1.4.9] (189)
+- Sửa lỗi cập nhật thông tin domitory
+
+## [1.4.7] (187)
+- Sửa lỗi minihub
+- Sửa lỗi camera dahua
+- Sửa lỗi tls connect mqtt
+  
 ## [1.4.5] (185) - 07/07/2023
 
 Thêm mới:
