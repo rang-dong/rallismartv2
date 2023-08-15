@@ -30,6 +30,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.5.5]
+- Sửa lỗi CRM Android
+- Sửa lỗi thông báo android 13
+- Sửa lỗi giao diện công tắc vuông
+- Sửa lỗi camera dauhua stream trên android 10 trở lên
+- Sửa lỗi làm mới thông tin tài khoản
+- Sửa giao diện chỉnh sửa phần cập nhập app
+- Sửa lỗi lặp thiết bị
+- Sửa lỗi reconnect minihub
+
 ## [1.4.16]
 - Sửa lỗi micro camera tuya
   
